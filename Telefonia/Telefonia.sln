@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TelefoniaEntidades", "TelefoniaEntidades\TelefoniaEntidades.vbproj", "{72FBE50C-175E-4A95-AE02-DE8DA961BA75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72FBE50C-175E-4A95-AE02-DE8DA961BA75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72FBE50C-175E-4A95-AE02-DE8DA961BA75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72FBE50C-175E-4A95-AE02-DE8DA961BA75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72FBE50C-175E-4A95-AE02-DE8DA961BA75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E546814-3C14-4637-B73E-896D07D62D48}
+	EndGlobalSection
+EndGlobal

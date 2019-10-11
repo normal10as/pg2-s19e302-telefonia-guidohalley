@@ -1,0 +1,9 @@
+C:\Users\Guido Halley\source\repos\normal10as\pg2-s19e302-telefonia-guidohalley\Telefonia\TelefoniaEntidades\obj\Debug\netstandard2.0\TelefoniaEntidades.vbprojAssemblyReference.cache
+C:\Users\Guido Halley\source\repos\normal10as\pg2-s19e302-telefonia-guidohalley\Telefonia\TelefoniaEntidades\obj\Debug\netstandard2.0\TelefoniaEntidades.vbproj.CoreCompileInputs.cache
+C:\Users\Guido Halley\source\repos\normal10as\pg2-s19e302-telefonia-guidohalley\Telefonia\TelefoniaEntidades\obj\Debug\netstandard2.0\TelefoniaEntidades.AssemblyInfoInputs.cache
+C:\Users\Guido Halley\source\repos\normal10as\pg2-s19e302-telefonia-guidohalley\Telefonia\TelefoniaEntidades\obj\Debug\netstandard2.0\TelefoniaEntidades.AssemblyInfo.vb
+C:\Users\Guido Halley\source\repos\normal10as\pg2-s19e302-telefonia-guidohalley\Telefonia\TelefoniaEntidades\bin\Debug\netstandard2.0\TelefoniaEntidades.deps.json
+C:\Users\Guido Halley\source\repos\normal10as\pg2-s19e302-telefonia-guidohalley\Telefonia\TelefoniaEntidades\bin\Debug\netstandard2.0\TelefoniaEntidades.dll
+C:\Users\Guido Halley\source\repos\normal10as\pg2-s19e302-telefonia-guidohalley\Telefonia\TelefoniaEntidades\bin\Debug\netstandard2.0\TelefoniaEntidades.pdb
+C:\Users\Guido Halley\source\repos\normal10as\pg2-s19e302-telefonia-guidohalley\Telefonia\TelefoniaEntidades\obj\Debug\netstandard2.0\TelefoniaEntidades.dll
+C:\Users\Guido Halley\source\repos\normal10as\pg2-s19e302-telefonia-guidohalley\Telefonia\TelefoniaEntidades\obj\Debug\netstandard2.0\TelefoniaEntidades.pdb
